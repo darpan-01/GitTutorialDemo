@@ -1,0 +1,72 @@
+#about-head{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-family: Engravers MT;
+    width: 14%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+#about-img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+#about-content{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: sans-serif;
+}
+h4{
+    line-height: 40px;
+}
+
+#line{
+    margin-bottom: 30px;
+}
+
+#gallery-krishna{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#vishnu-gallery{
+    width: 30%;
+    height: 302.4px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#blog{
+ width: 70%;
+ margin: 0 15%;
+ display: flex;
+ border: 2px solid black;
+ margin-bottom: 50px;
+}
+
+#blog-img{
+    border: 2px solid black;
+}
+
+#blog-content{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#blog-btn{
+
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    margin-left: 160px;
+    margin-top: 20px;
+}
